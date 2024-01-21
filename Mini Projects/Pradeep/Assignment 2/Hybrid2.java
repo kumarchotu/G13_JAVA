@@ -44,3 +44,16 @@ public class Hybrid2 {
 	}
 }
 
+
+
+//OUTPUT
+
+/*The value of a is 1
+The value of b is 2
+The value of c is 3
+The sum of a, b and c is 6
+
+The value of a is 1
+The value of e is 5
+The value of d is 4
+The sum of a, d and e is 10 */
