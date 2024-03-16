@@ -29,4 +29,9 @@ public class Assignment6 {
      }
 	}
 
+	/*OUTPUT:
+	 Length of the array is: 5
+     ArrayIndexOutOfBounds Exception is handled
+     The sum of the first and last element is = 40
+	 */
 }
