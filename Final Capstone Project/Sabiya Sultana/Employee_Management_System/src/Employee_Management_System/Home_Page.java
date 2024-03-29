@@ -43,7 +43,7 @@ public class Home_Page extends JFrame {
 	 */
 	public Home_Page() {
 		setTitle("Employee Platform");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-16 225405.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Home_Page.class.getResource("/Assets/Screenshot 2024-03-16 225405.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 800, 350);
 		contentPane = new JPanel();

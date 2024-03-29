@@ -42,7 +42,7 @@ public class Employee_Platform extends JFrame {
 	 */
 	public Employee_Platform() {
 		setTitle("Employee Platform");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-16 225405.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Employee_Platform.class.getResource("/Assets/Screenshot 2024-03-16 225405.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 832, 469);
 		contentPane = new JPanel();
@@ -97,7 +97,7 @@ public class Employee_Platform extends JFrame {
 		contentPane.add(btnLogIn);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-26 122218.png"));
+		lblNewLabel_1.setIcon(new ImageIcon(Employee_Platform.class.getResource("/Assets/Screenshot 2024-03-26 122218.png")));
 		lblNewLabel_1.setBounds(396, 151, 412, 259);
 		contentPane.add(lblNewLabel_1);
 	}

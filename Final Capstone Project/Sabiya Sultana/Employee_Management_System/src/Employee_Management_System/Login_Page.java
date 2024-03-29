@@ -52,7 +52,7 @@ public class Login_Page extends JFrame {
 	public Login_Page() {
 		setBackground(new Color(255, 255, 255));
 		setTitle("User Login");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\SURE Trust.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Login_Page.class.getResource("/Assets/Screenshot 2024-03-26 193041.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 617, 469);
 		contentPane = new JPanel();

@@ -62,7 +62,7 @@ public class Registration__Page extends JFrame {
 	public Registration__Page() {
 		setBackground(new Color(255, 255, 255));
 		setTitle("Registration Form");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-16 225405.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Registration__Page.class.getResource("/Assets/Screenshot 2024-03-16 225405.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 615, 727);
 		contentPane = new JPanel();

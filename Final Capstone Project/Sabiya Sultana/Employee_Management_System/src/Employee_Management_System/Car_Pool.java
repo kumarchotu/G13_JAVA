@@ -56,7 +56,7 @@ public class Car_Pool extends JFrame {
 	 */
 	public Car_Pool() {
 		setTitle("Car Pool");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-16 225405.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Car_Pool.class.getResource("/Assets/Screenshot 2024-03-16 225405.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 825, 682);
 		contentPane = new JPanel();
@@ -70,7 +70,7 @@ public class Car_Pool extends JFrame {
 		lblNewLabel.setBounds(322, 328, 489, 234);
 		lblNewLabel.setBackground(new Color(250, 250, 210));
 		lblNewLabel.setForeground(Color.BLUE);
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-03-26 122138.png"));
+		lblNewLabel.setIcon(new ImageIcon(Car_Pool.class.getResource("/Assets/Screenshot 2024-03-26 122138.png")));
 		contentPane.add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("ARE YOU READY FOR CAR POOL?");

@@ -63,7 +63,7 @@ public class Employee_Details extends JFrame {
 	 */
 	public Employee_Details() {
 		setTitle("Employee Management System");
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY PC\\OneDrive\\Pictures\\Screenshots\\SURE Trust.png"));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Employee_Details.class.getResource("/Assets/Screenshot 2024-03-26 193041.png")));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 1443, 777);
 		contentPane = new JPanel();
