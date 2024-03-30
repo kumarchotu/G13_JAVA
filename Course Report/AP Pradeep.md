@@ -15,7 +15,7 @@
 
 ## Qualifications: B.Tech(Pursuing 4th Year in stream of ECE)
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Core Java Programming ! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
