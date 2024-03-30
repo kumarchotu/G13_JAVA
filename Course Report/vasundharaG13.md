@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects:    Logical coding| [Click here](https://github.com/sure-trust/G13_JAVA/tree/main/Mini%20Projects/Vasundhara)                        |
-| Final Project:Exam Seating Arrangement     |[Click here](https://github.com/sure-trust/G13_JAVA/tree/main/Final%20Capstone%20Project/Vasundhara/Suretrust)
+| Final Project:Exam Seating Arrangement     |[Click here](https://github.com/sure-trust/G13_JAVA/tree/main/Final%20Capstone%20Project/Vasundhara/Suretrust)|
