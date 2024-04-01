@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Logical Coding     | [Click here](https://github.com/kumarchotu/G13_JAVA/tree/main/Mini%20Projects/Kumara%20Swamy)                         |
-| Final Project: Online Event Management System      | [Click here](https://github.com/kumarchotu/G13_JAVA/tree/main/Final%20Capstone%20Project/Kumara%20Swamy/Project)                      |
+| Mini Projects: Logical Coding     | [Click here](https://github.com/sure-trust/G13_JAVA/tree/main/Mini%20Projects/Kumara%20Swamy)                         |
+| Final Project: Online Event Management System      | [Click here](https://github.com/sure-trust/G13_JAVA/tree/main/Final%20Capstone%20Project/Kumara%20Swamy)                      |
